@@ -4,3 +4,4 @@ build
 *.exe
 *.obj
 *.dll
+CMakeUserPresets.json
